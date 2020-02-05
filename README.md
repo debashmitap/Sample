@@ -3,10 +3,15 @@
 Hi, this is a sample readme for a sample repository. My name is Debashmita but you can call me Debo.
 
 *This is some stuff in italics*
+
 **This is some stuff in bold**
+
 `This is some code`
-```This is some
-multilinecode```
+
+```
+This is some
+multilinecode
+```
 
 ## This is a subheader
 
