@@ -10,4 +10,4 @@ multilinecode```
 
 ## This is a subheader
 
-You can use the `README.md` file to provide general instructions and documentation to whoever might want to use the code in your repository (including yourself!!)
+You can use the `README.md` file to provide general instructions and documentation to whoever might want to use the code in your repository (including yourself!)
